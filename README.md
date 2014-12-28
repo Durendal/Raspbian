@@ -3,10 +3,11 @@ Raspbian
 
 Various scripts written for Raspbian
 
-	lamp.sh - configures a LAMP webserver on Raspbian (* denotes required packages, you can optionally delete the others from the script)
+	lamp.sh - configures a LAMP webserver on Raspbian (* denotes required packages, 
+	you can optionally delete the others from the script)
 
 		- Packages:
-		
+
 			* apache2* (webserver)
 			* mysql-server* (database)
 			* php5* (Scripting language)
